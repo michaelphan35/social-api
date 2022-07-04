@@ -28,7 +28,7 @@ none
 no other contributers for this project.
 
 ## Screenshots of the Project
-![Application Screenshot](./media/html_creation.jpg?raw=true "Application Screenshot")
+![Application Screenshot](./media/social_api.jpg?raw=true "Application Screenshot")
 
 ## Video:
 [Please click on this to be shown video demonstration](https://drive.google.com/file/d/1FjxNApMQJFuSjSKSwQLdfP9NFX7mZlC1/view)

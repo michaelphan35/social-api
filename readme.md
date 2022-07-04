@@ -31,7 +31,7 @@ no other contributers for this project.
 ![Application Screenshot](./media/html_creation.jpg?raw=true "Application Screenshot")
 
 ## Video:
-Please click on video link that shows how to opperate the application:
+[Please click on this to be shown video demonstration](https://drive.google.com/file/d/1FjxNApMQJFuSjSKSwQLdfP9NFX7mZlC1/view)
 
 ## License
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)
